@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puja2005-hub
 - 👀 I’m interested in ...learning python
-- 🌱 I’m currently learning ...python, c language
+- 🌱 I’m currently learning ...python, C language, JAVA
 - 💞️ I’m looking to collaborate on ... God 
 - 📫 How to reach me ... calling me, like heyyyyy
 - 😄 Pronouns: ...hello guys
